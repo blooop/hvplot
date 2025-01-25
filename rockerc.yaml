@@ -16,4 +16,6 @@ args:
   - pixi 
   - cwd
   - tzdata
+  - locales
+  # - create-dockerfile
 

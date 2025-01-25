@@ -12,26 +12,6 @@ pip_language-toolchain:
   - pip #update to the latest pip
   - pre-commit
 
-# pyproject:
-#   - pip
 pip_docs:
   - sphinx
-#   - docutils
-#   - ipython
-#   - pickleshare
-#   - numpydoc
-#   - pydocstyle
-#   - Sphinx>=5
-#   - pydata-sphinx-theme>=0.13.0
-#   - myst-parser
-#   - myst-nb
-#   - sphinx-notfound-page
-#   - sphinx-copybutton
-#   - bokeh>=3
-#   - contourpy
-#   - sphinx_design
-#   - sphinx-codeautolink>=0.9.0
-#   - jupyter-sphinx
-#   - jupyter_contrib_nbextensions
-#   - sphinxcontrib-youtube
-#   - dm-tree>=0.1.8
+
